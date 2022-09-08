@@ -1,0 +1,28 @@
+table, th, td {
+    border:1px solid black;
+    text-align:center;
+}
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  .Table {background: rgb(255, 255, 255);}
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+  .Table {background: rgb(160, 255, 250);}
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+  .Table {background: rgb(67, 255, 246);}
+} 
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+  .Table {background: rgb(33, 255, 244);}
+} 
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+  .Table {background: rgb(0, 255, 242);}
+}

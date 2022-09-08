@@ -1,0 +1,17 @@
+D:\Test_NZMSA2022Phase3\backend1\StudentApp\StudentApp.Infrastructure\bin\Debug\net6.0\StudentApp.Infrastructure.deps.json
+D:\Test_NZMSA2022Phase3\backend1\StudentApp\StudentApp.Infrastructure\bin\Debug\net6.0\StudentApp.Infrastructure.runtimeconfig.json
+D:\Test_NZMSA2022Phase3\backend1\StudentApp\StudentApp.Infrastructure\bin\Debug\net6.0\StudentApp.Infrastructure.dll
+D:\Test_NZMSA2022Phase3\backend1\StudentApp\StudentApp.Infrastructure\bin\Debug\net6.0\StudentApp.Infrastructure.pdb
+D:\Test_NZMSA2022Phase3\backend1\StudentApp\StudentApp.Infrastructure\bin\Debug\net6.0\StudentApp.Domain.dll
+D:\Test_NZMSA2022Phase3\backend1\StudentApp\StudentApp.Infrastructure\bin\Debug\net6.0\StudentApp.Domain.pdb
+D:\Test_NZMSA2022Phase3\backend1\StudentApp\StudentApp.Infrastructure\obj\Debug\net6.0\StudentApp.Infrastructure.csproj.AssemblyReference.cache
+D:\Test_NZMSA2022Phase3\backend1\StudentApp\StudentApp.Infrastructure\obj\Debug\net6.0\StudentApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test_NZMSA2022Phase3\backend1\StudentApp\StudentApp.Infrastructure\obj\Debug\net6.0\StudentApp.Infrastructure.AssemblyInfoInputs.cache
+D:\Test_NZMSA2022Phase3\backend1\StudentApp\StudentApp.Infrastructure\obj\Debug\net6.0\StudentApp.Infrastructure.AssemblyInfo.cs
+D:\Test_NZMSA2022Phase3\backend1\StudentApp\StudentApp.Infrastructure\obj\Debug\net6.0\StudentApp.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Test_NZMSA2022Phase3\backend1\StudentApp\StudentApp.Infrastructure\obj\Debug\net6.0\StudentApp.Infrastructure.csproj.CopyComplete
+D:\Test_NZMSA2022Phase3\backend1\StudentApp\StudentApp.Infrastructure\obj\Debug\net6.0\StudentApp.Infrastructure.dll
+D:\Test_NZMSA2022Phase3\backend1\StudentApp\StudentApp.Infrastructure\obj\Debug\net6.0\refint\StudentApp.Infrastructure.dll
+D:\Test_NZMSA2022Phase3\backend1\StudentApp\StudentApp.Infrastructure\obj\Debug\net6.0\StudentApp.Infrastructure.pdb
+D:\Test_NZMSA2022Phase3\backend1\StudentApp\StudentApp.Infrastructure\obj\Debug\net6.0\StudentApp.Infrastructure.genruntimeconfig.cache
+D:\Test_NZMSA2022Phase3\backend1\StudentApp\StudentApp.Infrastructure\obj\Debug\net6.0\ref\StudentApp.Infrastructure.dll
