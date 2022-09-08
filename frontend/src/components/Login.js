@@ -114,11 +114,6 @@ export default function Login() {
                         value={password}
                         onChange={e => setPassword(e.target.value)} 
                         />
-                    {/* <Button class="submitBtn" variant="contained" color = "secondary" onClick={() => {   
-                            Login();
-                        }}>
-                        Submit
-                    </Button> */}
                     <div style={{padding: '10px'}}>
                         <a href = "" onClick={() => {   
                             Login();

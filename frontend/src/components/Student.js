@@ -4,8 +4,6 @@ import './Student.css'
 import axios from "axios";
 import { Notifications } from 'react-push-notification';
 import addNotification from 'react-push-notification';
-import {useNavigate} from 'react-router-dom'
-import Typography from '@mui/material/Typography';
 import Modal from '@mui/material/Modal';
 import Box from '@mui/material/Box';
 import TextField from '@mui/material/TextField';
@@ -33,7 +31,6 @@ export default function Student() {
     const [userName,setName] = React.useState('')
     const [students,setStudents]=React.useState([])
     const [enrolments, setEnrolments] = React.useState([])
-    const [subjectId,setSubjectId] = React.useState('')
     const [subjectName,setSubjectName] = React.useState('')
     const [assignment1,setAssignment1] = React.useState('')
     const [assignment2,setAssignment2] = React.useState('')
@@ -284,9 +281,6 @@ export default function Student() {
                                         
                                       </Box>
                                     </Modal>
-                                    {/* <Button variant="text" onClick={() => {GetEnrolmentsOfStudent(student.id)}}>
-                                          Refresh
-                                      </Button> */}
                                     <Button variant="text" onClick={() => deleteStudent(student.id)}>
                                         Delete
                                     </Button>
